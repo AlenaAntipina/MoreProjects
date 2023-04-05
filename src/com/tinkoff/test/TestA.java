@@ -13,7 +13,7 @@ public class TestA {
         int res = d <= b ? a : a + (d - b) * c;
 
         System.out.println(res);
-        System.out.println("hey");
         System.out.println("b");
+        System.out.println("c");
     }
 }
