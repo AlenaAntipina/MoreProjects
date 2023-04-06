@@ -6,6 +6,7 @@ import static java.lang.Math.abs;
 
 public class FintehA {
     public void run(){
+        System.out.println("finA");
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();          // начальная точка маршрута
         int b = scan.nextInt();          // конечная точка маршрута
