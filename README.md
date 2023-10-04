@@ -1,7 +1,7 @@
 # AstonMovieCenter
 
  
- - ## AuthenticationController
+ ## AuthenticationController
 
 ### Регистрация пользователя:     
  **POST** - localhost:8081/api/auth/reg
@@ -13,7 +13,7 @@
  **POST** - localhost:8081/api/auth/verify/{token}
 
  
- - ## UserController
+ ## UserController
  
 ### Получение юзера по id (для всех пользователей):     
  **GET** - localhost:8081/api/users/{id} 
